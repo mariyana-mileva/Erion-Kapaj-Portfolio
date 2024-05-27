@@ -1,0 +1,136 @@
+[
+    {
+        "id": 1,
+        "path": "images/paintings/2.jpg",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at tortor at urna convallis hendrerit. Morbi et vulputate magna. Fusce tempus at augue sit amet gravida. Cras id tincidunt ligula, et molestie nisi. Nullam vehicula vel urna ut imperdiet. Aenean mattis condimentum lacus, eget pulvinar lectus cursus nec. Vivamus nec tincidunt diam. Vivamus sapien nibh, blandit vel hendrerit a, tincidunt ut risus. Maecenas non leo metus. Duis dictum volutpat mi, sed dignissim odio tempor vitae. Etiam tempor et ligula a ullamcorper. Morbi lobortis et libero vitae sodales. Vestibulum finibus urna sit amet arcu efficitur consectetur. Duis fermentum pulvinar pulvinar. In lacinia sollicitudin nibh, egestas luctus lorem varius elementum. Vestibulum fringilla sed mi consectetur viverra. Morbi bibendum lobortis ante sed lacinia. Nulla condimentum libero in malesuada venenatis. Quisque hendrerit neque nisi, sed placerat metus sagittis nec. Quisque porttitor iaculis est a sodales. Aenean in mi eu est placerat ultrices pharetra non nibh. Nullam leo eros, egestas in nulla et, porttitor hendrerit nulla. Integer vitae molestie ipsum. Vestibulum nec interdum ipsum, id dignissim orci. Proin felis mi, luctus quis enim a, pharetra ultricies nisi. Praesent condimentum felis sit amet posuere consectetur. Donec sit amet ullamcorper leo, nec malesuada augue. Ut euismod lorem elit, et gravida dolor placerat eu. Pellentesque ornare nibh a tortor vestibulum, nec mattis libero dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    },
+    {
+        "id": 2,
+        "path": "images/paintings/3.jpg",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at tortor at urna convallis hendrerit. Morbi et vulputate magna. Fusce tempus at augue sit amet gravida. Cras id tincidunt ligula, et molestie nisi. Nullam vehicula vel urna ut imperdiet. Aenean mattis condimentum lacus, eget pulvinar lectus cursus nec. Vivamus nec tincidunt diam. Vivamus sapien nibh, blandit vel hendrerit a, tincidunt ut risus. Maecenas non leo metus. Duis dictum volutpat mi, sed dignissim odio tempor vitae. Etiam tempor et ligula a ullamcorper. Morbi lobortis et libero vitae sodales. Vestibulum finibus urna sit amet arcu efficitur consectetur. Duis fermentum pulvinar pulvinar. In lacinia sollicitudin nibh, egestas luctus lorem varius elementum. Vestibulum fringilla sed mi consectetur viverra. Morbi bibendum lobortis ante sed lacinia. Nulla condimentum libero in malesuada venenatis. Quisque hendrerit neque nisi, sed placerat metus sagittis nec. Quisque porttitor iaculis est a sodales. Aenean in mi eu est placerat ultrices pharetra non nibh. Nullam leo eros, egestas in nulla et, porttitor hendrerit nulla. Integer vitae molestie ipsum. Vestibulum nec interdum ipsum, id dignissim orci. Proin felis mi, luctus quis enim a, pharetra ultricies nisi. Praesent condimentum felis sit amet posuere consectetur. Donec sit amet ullamcorper leo, nec malesuada augue. Ut euismod lorem elit, et gravida dolor placerat eu. Pellentesque ornare nibh a tortor vestibulum, nec mattis libero dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "buyLink": "https://facebook.com/"
+    },
+    {
+        "id": 3,
+        "path": "images/earlywork1.JPG",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at tortor at urna convallis hendrerit. Morbi et vulputate magna. Fusce tempus at augue sit amet gravida. Cras id tincidunt ligula, et molestie nisi. Nullam vehicula vel urna ut imperdiet. Aenean mattis condimentum lacus, eget pulvinar lectus cursus nec. Vivamus nec tincidunt diam. Vivamus sapien nibh, blandit vel hendrerit a, tincidunt ut risus. Maecenas non leo metus. Duis dictum volutpat mi, sed dignissim odio tempor vitae. Etiam tempor et ligula a ullamcorper. Morbi lobortis et libero vitae sodales. Vestibulum finibus urna sit amet arcu efficitur consectetur. Duis fermentum pulvinar pulvinar. In lacinia sollicitudin nibh, egestas luctus lorem varius elementum. Vestibulum fringilla sed mi consectetur viverra. Morbi bibendum lobortis ante sed lacinia. Nulla condimentum libero in malesuada venenatis. Quisque hendrerit neque nisi, sed placerat metus sagittis nec. Quisque porttitor iaculis est a sodales. Aenean in mi eu est placerat ultrices pharetra non nibh. Nullam leo eros, egestas in nulla et, porttitor hendrerit nulla. Integer vitae molestie ipsum. Vestibulum nec interdum ipsum, id dignissim orci. Proin felis mi, luctus quis enim a, pharetra ultricies nisi. Praesent condimentum felis sit amet posuere consectetur. Donec sit amet ullamcorper leo, nec malesuada augue. Ut euismod lorem elit, et gravida dolor placerat eu. Pellentesque ornare nibh a tortor vestibulum, nec mattis libero dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "buyLink": "https://msn.com/"
+    },
+    {
+        "id": 4,
+        "path": "images/p20.JPG",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci",
+        "buyLink": "https://outlook.com/"
+    },
+    {
+        "id": 5,
+        "path": "images/finland4.jpg",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci",
+        "buyLink": "https://facebook.com/"
+    },
+    {
+        "id": 6,
+        "path": "images/finland5.jpg",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at tortor at urna convallis hendrerit. Morbi et vulputate magna. Fusce tempus at augue sit amet gravida. Cras id tincidunt ligula, et molestie nisi. Nullam vehicula vel urna ut imperdiet. Aenean mattis condimentum lacus, eget pulvinar lectus cursus nec. Vivamus nec tincidunt diam. Vivamus sapien nibh, blandit vel hendrerit a, tincidunt ut risus. Maecenas non leo metus. Duis dictum volutpat mi, sed dignissim odio tempor vitae. Etiam tempor et ligula a ullamcorper. Morbi lobortis et libero vitae sodales. Vestibulum finibus urna sit amet arcu efficitur consectetur. Duis fermentum pulvinar pulvinar. In lacinia sollicitudin nibh, egestas luctus lorem varius elementum. Vestibulum fringilla sed mi consectetur viverra. Morbi bibendum lobortis ante sed lacinia. Nulla condimentum libero in malesuada venenatis. Quisque hendrerit neque nisi, sed placerat metus sagittis nec. Quisque porttitor iaculis est a sodales. Aenean in mi eu est placerat ultrices pharetra non nibh. Nullam leo eros, egestas in nulla et, porttitor hendrerit nulla. Integer vitae molestie ipsum. Vestibulum nec interdum ipsum, id dignissim orci. Proin felis mi, luctus quis enim a, pharetra ultricies nisi. Praesent condimentum felis sit amet posuere consectetur. Donec sit amet ullamcorper leo, nec malesuada augue. Ut euismod lorem elit, et gravida dolor placerat eu. Pellentesque ornare nibh a tortor vestibulum, nec mattis libero dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "buyLink": "https://msn.com/"
+    },
+    {
+        "id": 7,
+        "path": "images/paintings/72.jpg",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci",
+        "buyLink": "https://outlook.com/"
+    },
+    {
+        "id": 8,
+        "path": "images/p14.jpg",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci",
+        "buyLink": "https://facebook.com/"
+    },
+    {
+        "id": 9,
+        "path": "images/p15.jpg",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at tortor at urna convallis hendrerit. Morbi et vulputate magna. Fusce tempus at augue sit amet gravida. Cras id tincidunt ligula, et molestie nisi. Nullam vehicula vel urna ut imperdiet. Aenean mattis condimentum lacus, eget pulvinar lectus cursus nec. Vivamus nec tincidunt diam. Vivamus sapien nibh, blandit vel hendrerit a, tincidunt ut risus. Maecenas non leo metus. Duis dictum volutpat mi, sed dignissim odio tempor vitae. Etiam tempor et ligula a ullamcorper. Morbi lobortis et libero vitae sodales. Vestibulum finibus urna sit amet arcu efficitur consectetur. Duis fermentum pulvinar pulvinar. In lacinia sollicitudin nibh, egestas luctus lorem varius elementum. Vestibulum fringilla sed mi consectetur viverra. Morbi bibendum lobortis ante sed lacinia. Nulla condimentum libero in malesuada venenatis. Quisque hendrerit neque nisi, sed placerat metus sagittis nec. Quisque porttitor iaculis est a sodales. Aenean in mi eu est placerat ultrices pharetra non nibh. Nullam leo eros, egestas in nulla et, porttitor hendrerit nulla. Integer vitae molestie ipsum. Vestibulum nec interdum ipsum, id dignissim orci. Proin felis mi, luctus quis enim a, pharetra ultricies nisi. Praesent condimentum felis sit amet posuere consectetur. Donec sit amet ullamcorper leo, nec malesuada augue. Ut euismod lorem elit, et gravida dolor placerat eu. Pellentesque ornare nibh a tortor vestibulum, nec mattis libero dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "buyLink": "https://msn.com/"
+    },
+    {
+        "id": 10,
+        "path": "images/p21.JPG",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci",
+        "buyLink": "https://outlook.com/"
+    },
+    {
+        "id": 11,
+        "path": "images/p17.jpg",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at tortor at urna convallis hendrerit. Morbi et vulputate magna. Fusce tempus at augue sit amet gravida. Cras id tincidunt ligula, et molestie nisi. Nullam vehicula vel urna ut imperdiet. Aenean mattis condimentum lacus, eget pulvinar lectus cursus nec. Vivamus nec tincidunt diam. Vivamus sapien nibh, blandit vel hendrerit a, tincidunt ut risus. Maecenas non leo metus. Duis dictum volutpat mi, sed dignissim odio tempor vitae. Etiam tempor et ligula a ullamcorper. Morbi lobortis et libero vitae sodales. Vestibulum finibus urna sit amet arcu efficitur consectetur. Duis fermentum pulvinar pulvinar. In lacinia sollicitudin nibh, egestas luctus lorem varius elementum. Vestibulum fringilla sed mi consectetur viverra. Morbi bibendum lobortis ante sed lacinia. Nulla condimentum libero in malesuada venenatis. Quisque hendrerit neque nisi, sed placerat metus sagittis nec. Quisque porttitor iaculis est a sodales. Aenean in mi eu est placerat ultrices pharetra non nibh. Nullam leo eros, egestas in nulla et, porttitor hendrerit nulla. Integer vitae molestie ipsum. Vestibulum nec interdum ipsum, id dignissim orci. Proin felis mi, luctus quis enim a, pharetra ultricies nisi. Praesent condimentum felis sit amet posuere consectetur. Donec sit amet ullamcorper leo, nec malesuada augue. Ut euismod lorem elit, et gravida dolor placerat eu. Pellentesque ornare nibh a tortor vestibulum, nec mattis libero dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "buyLink": "https://msn.com/"
+    },
+    {
+        "id": 12,
+        "path": "images/drawings/1.JPG",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci",
+        "buyLink": "https://outlook.com/"
+    },
+    {
+        "id": 13,
+        "path": "images/sculptures/3.jpg",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci",
+        "buyLink": "https://facebook.com/"
+    },
+    {
+        "id": 14,
+        "path": "images/toys/27.jpg",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce at tortor at urna convallis hendrerit. Morbi et vulputate magna. Fusce tempus at augue sit amet gravida. Cras id tincidunt ligula, et molestie nisi. Nullam vehicula vel urna ut imperdiet. Aenean mattis condimentum lacus, eget pulvinar lectus cursus nec. Vivamus nec tincidunt diam. Vivamus sapien nibh, blandit vel hendrerit a, tincidunt ut risus. Maecenas non leo metus. Duis dictum volutpat mi, sed dignissim odio tempor vitae. Etiam tempor et ligula a ullamcorper. Morbi lobortis et libero vitae sodales. Vestibulum finibus urna sit amet arcu efficitur consectetur. Duis fermentum pulvinar pulvinar. In lacinia sollicitudin nibh, egestas luctus lorem varius elementum. Vestibulum fringilla sed mi consectetur viverra. Morbi bibendum lobortis ante sed lacinia. Nulla condimentum libero in malesuada venenatis. Quisque hendrerit neque nisi, sed placerat metus sagittis nec. Quisque porttitor iaculis est a sodales. Aenean in mi eu est placerat ultrices pharetra non nibh. Nullam leo eros, egestas in nulla et, porttitor hendrerit nulla. Integer vitae molestie ipsum. Vestibulum nec interdum ipsum, id dignissim orci. Proin felis mi, luctus quis enim a, pharetra ultricies nisi. Praesent condimentum felis sit amet posuere consectetur. Donec sit amet ullamcorper leo, nec malesuada augue. Ut euismod lorem elit, et gravida dolor placerat eu. Pellentesque ornare nibh a tortor vestibulum, nec mattis libero dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
+        "buyLink": "https://msn.com/"
+    },
+    {
+        "id": 15,
+        "path": "images/sculptures/5.JPG",
+        "title": "Lorem Ipsum",
+        "date": "2023-02-13",
+        "price": "$123.45",
+        "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum arcu ante. Quisque facilisis orci",
+        "buyLink": "https://outlook.com/"
+    }
+]
